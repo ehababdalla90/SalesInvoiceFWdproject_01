@@ -1,0 +1,10 @@
+model\LinesTable.class
+model\InvoicesTable.class
+com\salesinvoice\salesinvoiceprojectfwd_01\SalesInvoiceProjectFWD_01.class
+controller\Controller.class
+view\InvoiceFrame.class
+model\InvoiceHeader.class
+view\InvoiceFrame$1.class
+model\InvoiceLine.class
+view\InvoiceLineDialog.class
+view\InvoiceHeaderDialog.class
